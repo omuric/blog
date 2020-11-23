@@ -1,6 +1,6 @@
 ---
 title: "Codingame Fall Challenge 2020 参加記"
-data: 2020-11-23T20:30:00+09:00
+date: 2020-11-24T00:40:00+09:00
 draft: false
 ---
 
@@ -9,7 +9,7 @@ draft: false
 2020年 11/12(木) ~ 11/23(月) に開催された [Codingame Fall Challenge 2020](https://www.codingame.com/contests/fall-challenge-2020) に参加しました  
 最終結果は 41/7043 位でした
 
-![](https://github.com/omuric/blog/blob/master/resources/_gen/images/codingame-fall-challenge-2020_result.png)
+![](https://raw.githubusercontent.com/omuric/blog/master/resources/_gen/images/codingame-fall-challenge-2020_result.png)
 
 ## やったこと
 
