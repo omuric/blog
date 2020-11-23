@@ -193,5 +193,5 @@ where
 ```
 
 
-[rust-clippy](https://github.com/rust-lang/rust-clippy) という rust の静的解析ツールがあり、 Legend に上がった後になんとなくかけて見たんですが、指摘事項を直した後にベンチマークを取ると異様に速度が向上しており糞ビックリという話でした  
+[rust-clippy](https://github.com/rust-lang/rust-clippy) という rust の静的解析ツールがあり、 Legend に上がった後になんとなくかけてみたんですが、指摘事項を修正した後にベンチマークを取ると異様に速度が向上しており糞ビックリという話でした  
 clippy ありがとう
